@@ -1,37 +1,52 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/talkershow/catshow.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#思维模型 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#Fleeting  
 
-### Markdown
+## 第一部分 认识逻辑思维
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+* 问题：为什么资本主义和现代科学起源于西欧而不是中国文明？
+  * 答案：从李约瑟的“李约瑟难题”到爱因斯坦，中国没有现代科学起源的主要原因是：**缺少自然观**、**科举制度**、**逻辑体系**和**因果关系**不完善导致的。
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
+* 问题：什么是逻辑？
+  * 答案：逻辑的含义具有三种情况：客观规律性，思维的规律性和某种理论观点。逻辑的研究对象是**思维形式结构**和**逻辑方法**，既是一种**思维工具**，也是一门**工具性科学**。
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+* 问题：什么是思维？
+  * 答案：思维是一种**反映**，思维内容是特定的**对象和属性**，思维形式是**存在方式**和**联系方式**。
 
-[Link](url) and ![Image](src)
-```
+---
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+* 问题：什么是逻辑思维？
+  * 答案：逻辑思维是运用思维工具认识事物的**抽象思维**，它是一种思维方式。逻辑思维的主要形态有**概念、命题、判断、推理和论证**。逻辑学的意义是提高逻辑思维能力。
 
-### Jekyll Themes
+---
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/talkershow/catshow.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## 第二部分 研习逻辑思维
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+---
+
+* 第一步：明概念
+  * [[概念]]
+
+---
+
+* 第二步：识判断
+  * [[判断]]
+
+---
+
+* 第三部：懂推理
+  * [[推理]]
+
+---
+
+* 第四部：释因果
+  * [[因果]]
